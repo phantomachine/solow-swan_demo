@@ -1,6 +1,6 @@
 # solow-swan_demo
 
-This Python code repository demonstrates the transitional dynamics of an example Solow-Swan model economy (with no TFP growth). We have normalize TFP to unity here, $A = $. 
+This Python code repository demonstrates the transitional dynamics of an example Solow-Swan model economy (with no TFP growth). We have normalize TFP to unity here, $$A=1$$. 
 
 Without TFP growth, the economy eventually remains at a rest point: per-capita capital or per-capita GDP will get stuck forever at a constant level.
 
