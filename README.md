@@ -18,7 +18,7 @@ To run this file:
 
 ## Exercise:
 
-The eager student is encouraged to clone this repository and generalize this code to allow for a case where TFP $A$ can grow, e.g., at some constant rate.
+The eager student is encouraged to clone this repository and generalize this code to allow for a case where TFP *A* can grow, e.g., at some constant rate.
 
 ## FAQ:
 
