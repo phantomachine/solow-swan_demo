@@ -22,6 +22,6 @@ The eager student is encouraged to clone this repository and generalize this cod
 
 ## FAQ:
 
-Is coding required in this course? Is this material examinable?
+Q: Is coding required in this course? Is this material examinable?
 
 A: No, and no. But the ability to work with math and analytical thinking, and translate your thinking into computer code, will be a very important marketable skill for the modern market place. If you want to go for Honours Year in Economics, learn coding early on and do more math early on!
