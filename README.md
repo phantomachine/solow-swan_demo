@@ -10,7 +10,7 @@ Python script:
 
 To run this file:
 
-* Have a working version of Python, e.g., install it from (https://www.continuum.io/downloads)[https://www.continuum.io/downloads]
+* Have a working version of Python, e.g., install it from [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
 * Launch the IPython terminal (use the Anaconda Launcher if you are a Windows user, or, type **ipython** in your Terminal App in Mac or Linux)
 
